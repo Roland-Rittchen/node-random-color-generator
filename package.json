@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "chalk": "^5.0.0",
-    "colord": "^2.9.2",
+    "randomcolor": "^0.6.2",
     "readline-sync": "^1.4.10"
   }
 }
